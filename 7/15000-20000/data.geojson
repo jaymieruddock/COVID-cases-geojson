@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["26163", "Wayne County", "MI", "16729", "1782"], ["34003", "Bergen County", "NJ", "15610", "1136"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US34003", "STATE": "34", "COUNTY": "003", "NAME": "Bergen", "LSAD": "County", "CENSUSAREA": "233.009", "cases": "15610", "deaths": "1136", "date": "7", "type": ""}, {"GEO_ID": "0500000US26163", "STATE": "26", "COUNTY": "163", "NAME": "Wayne", "LSAD": "County", "CENSUSAREA": "612.08", "cases": "16729", "deaths": "1782", "date": "7", "type": ""}]}

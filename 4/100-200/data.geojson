@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["36119", "Westchester County", "NY", "196", "0"], ["53061", "Snohomish County", "WA", "176", "4"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US53061", "STATE": "53", "COUNTY": "061", "NAME": "Snohomish", "LSAD": "County", "CENSUSAREA": "2087.273", "cases": "176", "deaths": "4", "date": "4", "type": ""}, {"GEO_ID": "0500000US36119", "STATE": "36", "COUNTY": "119", "NAME": "Westchester", "LSAD": "County", "CENSUSAREA": "430.497", "cases": "196", "deaths": "0", "date": "4", "type": ""}]}

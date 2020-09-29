@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["36061", "New York County", "NY", "27627", "3023"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US36061", "STATE": "36", "COUNTY": "061", "NAME": "New York", "LSAD": "County", "CENSUSAREA": "22.829", "cases": "27627", "deaths": "3023", "date": "10", "type": ""}]}

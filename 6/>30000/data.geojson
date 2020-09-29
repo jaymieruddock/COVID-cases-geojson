@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["36047", "Kings County", "NY", "31969", "3007"], ["36081", "Queens County", "NY", "36765", "2980"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US36081", "STATE": "36", "COUNTY": "081", "NAME": "Queens", "LSAD": "County", "CENSUSAREA": "108.532", "cases": "36765", "deaths": "2980", "date": "6", "type": ""}, {"GEO_ID": "0500000US36047", "STATE": "36", "COUNTY": "047", "NAME": "Kings", "LSAD": "County", "CENSUSAREA": "70.816", "cases": "31969", "deaths": "3007", "date": "6", "type": ""}]}

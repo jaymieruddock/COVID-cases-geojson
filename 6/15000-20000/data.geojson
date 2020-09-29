@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["17031", "Cook County", "IL", "17306", "630"], ["36061", "New York County", "NY", "16617", "1228"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US36061", "STATE": "36", "COUNTY": "061", "NAME": "New York", "LSAD": "County", "CENSUSAREA": "22.829", "cases": "16617", "deaths": "1228", "date": "6", "type": ""}, {"GEO_ID": "0500000US17031", "STATE": "17", "COUNTY": "031", "NAME": "Cook", "LSAD": "County", "CENSUSAREA": "945.326", "cases": "17306", "deaths": "630", "date": "6", "type": ""}]}

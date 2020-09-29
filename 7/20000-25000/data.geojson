@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["6037", "Los Angeles County", "CA", "23182", "1111"], ["36061", "New York County", "NY", "21920", "2132"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US36061", "STATE": "36", "COUNTY": "061", "NAME": "New York", "LSAD": "County", "CENSUSAREA": "22.829", "cases": "21920", "deaths": "2132", "date": "7", "type": ""}, {"GEO_ID": "0500000US06037", "STATE": "06", "COUNTY": "037", "NAME": "Los Angeles", "LSAD": "County", "CENSUSAREA": "4057.884", "cases": "23182", "deaths": "1111", "date": "7", "type": ""}]}

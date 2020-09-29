@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["25017", "Middlesex County", "MA", "21287", "1615"], ["26163", "Wayne County", "MI", "20415", "2461"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US26163", "STATE": "26", "COUNTY": "163", "NAME": "Wayne", "LSAD": "County", "CENSUSAREA": "612.08", "cases": "20415", "deaths": "2461", "date": "9", "type": ""}, {"GEO_ID": "0500000US25017", "STATE": "25", "COUNTY": "017", "NAME": "Middlesex", "LSAD": "County", "CENSUSAREA": "817.817", "cases": "21287", "deaths": "1615", "date": "9", "type": ""}]}

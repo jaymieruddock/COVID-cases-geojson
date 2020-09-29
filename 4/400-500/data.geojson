@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["53033", "King County", "WA", "420", "37"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US53033", "STATE": "53", "COUNTY": "033", "NAME": "King", "LSAD": "County", "CENSUSAREA": "2115.566", "cases": "420", "deaths": "37", "date": "4", "type": ""}]}

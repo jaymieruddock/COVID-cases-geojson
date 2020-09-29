@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["36119", "Westchester County", "NY", "28970", "1031"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US36119", "STATE": "36", "COUNTY": "119", "NAME": "Westchester", "LSAD": "County", "CENSUSAREA": "430.497", "cases": "28970", "deaths": "1031", "date": "7", "type": ""}]}

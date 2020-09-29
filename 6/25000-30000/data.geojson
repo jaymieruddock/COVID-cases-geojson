@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["36059", "Nassau County", "NY", "26715", "1057"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US36059", "STATE": "36", "COUNTY": "059", "NAME": "Nassau", "LSAD": "County", "CENSUSAREA": "284.716", "cases": "26715", "deaths": "1057", "date": "6", "type": ""}]}

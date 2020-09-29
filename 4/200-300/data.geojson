@@ -1,1 +1,1 @@
-{"type": "FeatureCollection", "features": [["6085", "Santa Clara County", "CA", "255", "5"]]}
+{"type": "FeatureCollection", "features": [{"GEO_ID": "0500000US06085", "STATE": "06", "COUNTY": "085", "NAME": "Santa Clara", "LSAD": "County", "CENSUSAREA": "1290.1", "cases": "255", "deaths": "5", "date": "4", "type": ""}]}
